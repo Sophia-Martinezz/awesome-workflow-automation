@@ -100,6 +100,8 @@ Key stats:
 
 > Platforms that go beyond simple triggers — using AI to decide, generate, and adapt within automation flows.
 
+- **[appKey.ai](https://appkey.ai/)** — Designed specifically for marketing teams, appKey.ai is an AI-powered platform that integrates brand knowledge, competitor analysis, and market research to transform daily tasks into reusable, collaborative workflows for generating high-converting campaign content.
+
 - **[Lindy](https://www.lindy.ai/)** — Build AI agents for sales, email, recruiting, and ops — no code. 4,000+ integrations. SOC2 + HIPAA compliant.
 
 - **[Gumloop](https://www.gumloop.com/)** — AI-first no-code workflow canvas. Visual nodes + flows + subflows. Used by teams at Cursor and Ramp.
